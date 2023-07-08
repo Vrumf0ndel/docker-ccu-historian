@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 PATH_BASE="/opt/ccu-historian"
 PATH_CONFIG="${PATH_BASE}/config"
